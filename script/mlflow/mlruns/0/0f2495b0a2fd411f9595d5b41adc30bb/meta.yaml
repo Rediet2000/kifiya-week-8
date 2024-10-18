@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Rediet.solomon/Documents/kifiya-week-8/mlflow/mlruns/0/0f2495b0a2fd411f9595d5b41adc30bb/artifacts
+end_time: 1729256298889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f2495b0a2fd411f9595d5b41adc30bb
+run_name: chill-shrimp-48
+run_uuid: 0f2495b0a2fd411f9595d5b41adc30bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729256287922
+status: 3
+tags: []
+user_id: Rediet.Solomon
