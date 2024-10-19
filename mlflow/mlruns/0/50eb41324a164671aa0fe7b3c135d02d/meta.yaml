@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Rediet.solomon/Documents/kifiya-week-8/mlflow/mlruns/0/50eb41324a164671aa0fe7b3c135d02d/artifacts
+end_time: 1729327484804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50eb41324a164671aa0fe7b3c135d02d
+run_name: powerful-quail-935
+run_uuid: 50eb41324a164671aa0fe7b3c135d02d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729327467948
+status: 3
+tags: []
+user_id: Rediet.Solomon
