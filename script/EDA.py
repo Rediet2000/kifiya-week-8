@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import socket
@@ -5,10 +6,9 @@ import struct
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
-import os
-print(os.getcwd())
-fraud_data = pd.read_csv('C:/Users/Rediet.solomon/Documents/kifiya-week-8/data/Fraud_Data.csv')
-ip_address_data = pd.read_csv('C:/Users/Rediet.solomon/Documents/kifiya-week-8/data/IpAddress_to_Country.csv')
+
+fraud_data = pd.read_csv('./data/Fraud_Data.csv')
+ip_address_data = pd.read_csv('./data/IpAddress_to_Country.csv')
 
 missing_values = fraud_data.isnull().sum()
 print("Missing Values:\n", missing_values)
